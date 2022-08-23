@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rio
 - 👀 I’m interested in Graphics, Robotics, Data science, Desktop app's & Databases
-- 🌱 I’m currently learning Opengl in c++ && rust, GLSL, java / libgdx with Android studio
+- 🌱 I’m currently learning Opengl in c++ && rust, GLSL, java / libgdx with Android studio, Assembly
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me Lukasran28@gmail.com
 
