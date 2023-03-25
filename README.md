@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rio
 - 👀 I’m interested in Graphics, Robotics, Data science, Desktop app's & Databases
-- 🌱 I’m currently learning Opengl in c/c++, GLSL, Data analytivs in python, , Assembly
+- 🌱 I’m currently learning Opengl in c/c++, GLSL, Data analytics and Machine Learning in python, Assembly
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me Lukasran28@gmail.com
 
