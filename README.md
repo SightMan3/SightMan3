@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rio
-- 👀 I’m interested in Graphics, Robotics, Data science, Desktop app's & Databases
-- 🌱 I’m currently learning Opengl in c/c++, GLSL, Data analytics and Machine Learning in python, Assembly
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Lukasran28@gmail.com
+- 👋 Hi, I’m Lukas
+- 👀 I’m interested in physics, mathematics and data analysis
+- 🌱 I’m currently an university student, studying data analysis and mathematics
+- 💞️ I’m also a part-time employee as data analysit at the institute of experimental physics, in the department of cosmic physics in Kosice, Slovakia
+- 📫 How to reach me Lukasran28@gmail.com or lukas.randuska@student.upjs.sk
 
 <!---
 SightMan3/SightMan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
